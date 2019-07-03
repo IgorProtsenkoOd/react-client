@@ -1,0 +1,22 @@
+{
+  "name": "Robodomo",
+  "version": "0.1.0",
+  "description": "Robodomo framework",
+  "scripts": {
+    "test": "protractor configs/config.js"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-string": "latest",
+    "cucumber": "^3.2.0",
+    "cucumber-html-reporter": "^3.0.4",
+    "path": "0.12.7",
+    "protractor-cucumber-framework": "^4.1.1",
+    "protractor": "latest",
+    "qs": "6.5.0",
+    "require-dir": "0.3.2"
+  },
+  "author": "Igor Protsenko",
+  "license": "MIT"
+}

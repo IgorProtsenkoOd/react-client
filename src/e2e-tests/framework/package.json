@@ -1,0 +1,8 @@
+{
+  "name": "robodomo-framework",
+  "version": "0.0.1",
+  "description": "Testing framework",
+  "main": "testingFramework",
+  "author": "Igor Protsenko",
+  "license": "MIT"
+}
